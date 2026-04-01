@@ -1,1 +1,6 @@
 # Vaja11-LCD2x16-STM32F0
+2.b)
+
+RS-PC13
+
+E- PB14
