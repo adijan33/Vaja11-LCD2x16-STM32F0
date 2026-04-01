@@ -6,7 +6,7 @@ Slika pinout
 
 Slika vezja
 
-<img width="686" height="722" alt="image" src="https://github.com/user-attachments/assets/81b5d04c-ba78-49a0-aaa8-c9cdbaa48409" />
+
 
 
 
